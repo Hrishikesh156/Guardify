@@ -1,0 +1,8 @@
+flask
+requests
+tweepy
+flask_cors
+googletrans
+openai
+python-dotenv
+gunicorn
